@@ -1,0 +1,58 @@
+body {
+    background-color: whitesmoke
+}
+.left {
+    width: 430px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+h1 {
+    font-size: 60px;
+    color: rgb(4, 141, 233);
+    margin-bottom: 0px;
+    font-family: inherit;
+}
+.right { 
+    background-color: white;
+width: 400px;
+height: 350px;
+    margin-top: 150px;
+    margin-right: 150px;
+    padding: 20px;
+    
+}
+section {
+    display: flex;
+    justify-content: space-between;
+}
+input {
+    width: 90%;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+padding: 15px;
+border-radius: 10px;
+border: 1px solid gray;
+font-size: 20px;
+}
+button {
+    width: 99%;
+    margin-bottom: 10px;
+    padding: 15px;
+    color: aliceblue;
+    background-color: rgb(4, 141, 233);
+    border-radius: 10px;
+    border: 1px solid gray;
+    font-size: 20px;
+}
+a {
+    color: blue;
+    margin-left: 130px;
+}
+.c {
+    background-color: rgb(100, 218, 100);
+    margin-top: 10px;
+    width: 50%;
+    color: white;
+    margin-left: 100px;
+}
